@@ -32,7 +32,7 @@ This project demonstrates how to connect Python with a PostgreSQL database using
 ```
 postgres-python-jupyter/
 │
-├── students_db.ipynb   # Jupyter notebook with database code
+├── DB_connection.ipynb   # Jupyter notebook with database code
 ├── README.md          # Project documentation
 ```
 
